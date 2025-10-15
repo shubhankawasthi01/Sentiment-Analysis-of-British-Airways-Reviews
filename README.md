@@ -21,3 +21,5 @@ Best model: Gradient Boosting with 0.812 F1 score
 
 eda_plots.png: Visualization output
 
+**NOTE**:
+I have been trying my hands at NLP and other advanced topics of AI/ML. In this project I will further try my hands on transformers later.
